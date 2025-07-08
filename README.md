@@ -32,7 +32,7 @@ pip install -r requirements.txt
 streamlit run Cancer_app.py
 
 ## 📷 Streamlit App Preview
-![Diabetes App Screenshot] (https://github.com/auspicie/Wisconsin-Breast-Cancer-Prediction-ML/blob/fe2be02877895e96135047f16b3c904ce67759af/Breast%20Cancer.png)
+![Diabetes App Screenshot](https://github.com/auspicie/Wisconsin-Breast-Cancer-Prediction-ML/blob/fe2be02877895e96135047f16b3c904ce67759af/Breast%20Cancer.png)
 ---
 
 ## 📊 Dataset
@@ -53,6 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Ensure that the `heart\_disease\_model.pkl` and `scaler.pkl` are in the same directory as the app.
 ### Author: Samsudeen Bankole
 Built with ❤️ using Streamlit and Scikit-learn.
+
 
 
 
