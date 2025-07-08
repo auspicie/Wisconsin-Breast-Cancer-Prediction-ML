@@ -31,6 +31,10 @@ pip install -r requirements.txt
 **Run the Streamlit app:**
 streamlit run Cancer_app.py
 
+## 📷 Streamlit App Preview
+![Diabetes App Screenshot] (https://github.com/auspicie/Wisconsin-Breast-Cancer-Prediction-ML/blob/fe2be02877895e96135047f16b3c904ce67759af/Breast%20Cancer.png)
+---
+
 ## 📊 Dataset
 -**Name:** Wisconsin Breast Cancer Diagnostic Dataset  
 - **Source:**[Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
